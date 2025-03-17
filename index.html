@@ -1,0 +1,51 @@
+{% extends "layout.html" %}
+
+{% block title %}KBD Services Presentation Tool{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-8 offset-md-2 text-center">
+        <h1 class="display-4 mb-4">KBD Services</h1>
+        <p class="lead">Promotional Products Presentation Tool</p>
+        
+        <div class="mt-5">
+            <i class="bi bi-easel text-gold" style="font-size: 6rem; color: #a37e2c;"></i>
+            
+            <div class="card shadow-sm">
+                <div class="card-body p-5 bg-primary-light">
+                    <h2 class="h3 mb-4">Create Your Presentation</h2>
+                    <p>Showcase our promotional products by entering client details and preferences.</p>
+                    <a href="{{ url_for('client_form') }}" class="btn btn-primary btn-lg">Start New Presentation</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row mt-5">
+            <div class="col-md-4">
+                <div class="card mb-4 h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">Personalized</h5>
+                        <p class="card-text">Create custom presentations based on client interests and needs.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card mb-4 h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">Professional</h5>
+                        <p class="card-text">Impress clients with sleek, organized product presentations.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card mb-4 h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">Efficient</h5>
+                        <p class="card-text">Quickly create and deliver targeted product suggestions.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

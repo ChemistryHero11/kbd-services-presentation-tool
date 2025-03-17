@@ -1,0 +1,2247 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "BAGS",
+      "collection": "CAPRI",
+      "item_name": "THE CAPRI DUFFEL BAG",
+      "dimensions": "20.25\" x 10.75\" x 13.25\"",
+      "price": "$180",
+      "product_codes": [
+        { "code": "#3254", "color": "Black" }
+      ],
+      "notes": "New Release for 2022"
+    },
+    {
+      "id": 2,
+      "category": "BAGS",
+      "collection": "CAPRI",
+      "item_name": "THE CAPRI BOARDING BAG",
+      "dimensions": "19.25\" x 8.75\" x 13.25\"",
+      "price": "$72",
+      "product_codes": [
+        { "code": "#3252", "color": "Black" },
+        { "code": "#3253", "color": "Brown" }
+      ],
+      "notes": "New Release for 2022"
+    },
+    {
+      "id": 3,
+      "category": "BAGS",
+      "collection": "CAPRI",
+      "item_name": "THE CAPRI COSMETIC BAG",
+      "dimensions": "10\" x 5\" x 7.25\"",
+      "price": "$200",
+      "product_codes": [
+        { "code": "#3250", "color": "Black" },
+        { "code": "#3251", "color": "Brown" },
+        { "code": "#3255", "color": "Brown" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 4,
+      "category": "BAGS",
+      "collection": "CAPRI",
+      "item_name": "THE CAPRI 2-N-1 GARMENT BAG",
+      "dimensions": "22\" x 9.75\" x 14.25\"",
+      "price": "$240",
+      "product_codes": [
+        { "code": "#3257", "color": "Brown" },
+        { "code": "#3256", "color": "Black" }
+      ],
+      "notes": "New Release for 2022"
+    },
+    {
+      "id": 5,
+      "category": "BAGS",
+      "collection": "CAPRI",
+      "item_name": "THE CAPRI TOTE BAG W/POUCH",
+      "dimensions": "15.75\" x 9.25\" x 13.5\"",
+      "price": "$160",
+      "product_codes": [
+        { "code": "#3259", "color": "Brown" },
+        { "code": "#3258", "color": "Black" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 6,
+      "category": "BAGS",
+      "collection": "CAPRI",
+      "item_name": "THE CAPRI SINGLE WINE BAG",
+      "dimensions": "4\" x 4\" x 12.75\"",
+      "price": "$100",
+      "product_codes": [
+        { "code": "#3236", "color": "Brown" },
+        { "code": "#3278", "color": "Black" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 7,
+      "category": "BAGS",
+      "collection": "CAPRI",
+      "item_name": "THE CAPRI DOUBLE WINE BAG",
+      "dimensions": "8.25\" x 4\" x 12.75\"",
+      "price": "$120",
+      "product_codes": [
+        { "code": "#3237", "color": "Brown" },
+        { "code": "#3279", "color": "Black" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 8,
+      "category": "BAGS",
+      "collection": "CLAIRE",
+      "item_name": "CLAIRE DOPP KIT",
+      "dimensions": "10.25\" x 4.75\" x 7\"",
+      "price": "$64",
+      "product_codes": [
+        { "code": "#3238", "color": "Black/White" },
+        { "code": "#3239", "color": "Blue/White" },
+        { "code": "#3240", "color": "Pink/White" },
+        { "code": "#3241", "color": "Beige/White" },
+        { "code": "#3242", "color": "Red/White" }
+      ],
+      "notes": "New Release for 2022"
+    },
+    {
+      "id": 9,
+      "category": "BAGS",
+      "collection": "MIA",
+      "item_name": "MIA 2 PIECE POUCH",
+      "dimensions": "10.75\" x 7.75\"",
+      "price": "$80",
+      "product_codes": [
+        { "code": "#3243", "color": "Pearl White" },
+        { "code": "#3244", "color": "Pink" },
+        { "code": "#3245", "color": "Rose Gold" },
+        { "code": "#3246", "color": "Silver" },
+        { "code": "#3247", "color": "Gold" },
+        { "code": "#3248", "color": "Black" },
+        { "code": "#3249", "color": "Chestnut" }
+      ],
+      "notes": "New Release for 2022"
+    },
+    {
+      "id": 10,
+      "category": "BAGS",
+      "collection": "HUDSON",
+      "item_name": "THE HUDSON DUFFEL BAG",
+      "dimensions": "20\" x 9.5\" x 13\"",
+      "price": "$180",
+      "product_codes": [
+        { "code": "#3082", "color": "Black" },
+        { "code": "#3084", "color": "Hunter Green" },
+        { "code": "#3083", "color": "Brown" },
+        { "code": "#3085", "color": "Blue" },
+        { "code": "#3086", "color": "Grey" }
+      ],
+      "notes": "Water Resistant"
+    },
+    {
+      "id": 11,
+      "category": "BAGS",
+      "collection": "HUDSON",
+      "item_name": "THE HUDSON TOILETRY BAG",
+      "dimensions": "10.25\" x 5.75\" x 5.25\"",
+      "price": "$60",
+      "product_codes": [
+        { "code": "#3072", "color": "Black" },
+        { "code": "#3073", "color": "Brown" },
+        { "code": "#3074", "color": "Hunter Green" },
+        { "code": "#3075", "color": "Blue" },
+        { "code": "#3076", "color": "Grey" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 12,
+      "category": "BAGS",
+      "collection": "HUDSON",
+      "item_name": "THE HUDSON BACKPACK",
+      "dimensions": "14.75\" x 5.5\" x 17.25\"",
+      "price": "$140",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 13,
+      "category": "BAGS",
+      "collection": "HUDSON",
+      "item_name": "THE HUDSON LAPTOP CASE",
+      "dimensions": "16.75\" x 15\" x 2\"",
+      "price": "$120",
+      "product_codes": [
+        { "code": "#3077", "color": "Black" },
+        { "code": "#3079", "color": "Hunter Green" },
+        { "code": "#3078", "color": "Brown" },
+        { "code": "#3081", "color": "Grey" },
+        { "code": "#3080", "color": "Blue" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 14,
+      "category": "BAGS",
+      "collection": "HUDSON",
+      "item_name": "THE HUDSON GARMENT BAG",
+      "dimensions": "24\" x 24.75\" x 1.75\"",
+      "price": "$140",
+      "product_codes": [
+        { "code": "#3093", "color": "Brown" },
+        { "code": "#3095", "color": "Blue" },
+        { "code": "#3092", "color": "Black" },
+        { "code": "#3094", "color": "Hunter Green" },
+        { "code": "#3096", "color": "Grey" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 15,
+      "category": "BAGS",
+      "collection": "DAVIDSON",
+      "item_name": "THE DAVIDSON WEEKENDER BAG",
+      "dimensions": "20\" x 11\" x 12\"",
+      "price": "$192",
+      "product_codes": [
+        { "code": "#2976", "color": "Black" },
+        { "code": "#2984", "color": "Blue" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 16,
+      "category": "BAGS",
+      "collection": "DAVIDSON",
+      "item_name": "THE DAVIDSON BACKPACK",
+      "dimensions": "17\" x 12\" x 4\"",
+      "price": "$192",
+      "product_codes": [
+        { "code": "#2981", "color": "Black" },
+        { "code": "#2989", "color": "Blue" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 17,
+      "category": "BAGS",
+      "collection": "DAVIDSON",
+      "item_name": "THE DAVIDSON DUFFEL BAG",
+      "dimensions": "22.5\" x 11\" x 12\"",
+      "price": "$152",
+      "product_codes": [
+        { "code": "#2977", "color": "Black" },
+        { "code": "#2985", "color": "Blue" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 18,
+      "category": "BAGS",
+      "collection": "DAVIDSON",
+      "item_name": "THE DAVIDSON TROLLEY BAG",
+      "dimensions": "22\" x 12\" x 13\"",
+      "price": "$64",
+      "product_codes": [
+        { "code": "#2983", "color": "Black" },
+        { "code": "#2991", "color": "Blue" },
+        { "code": "#2979", "color": "Black" },
+        { "code": "#2987", "color": "Blue" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 19,
+      "category": "BAGS",
+      "collection": "DAVIDSON",
+      "item_name": "THE DAVIDSON MESSENGER BAG",
+      "dimensions": "16\" x 12\" x 5\"",
+      "price": "$152",
+      "product_codes": [
+        { "code": "#2986", "color": "Blue" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 20,
+      "category": "BAGS",
+      "collection": "DAVIDSON",
+      "item_name": "THE DAVIDSON SHOE BAG",
+      "dimensions": "14\" x 10\" x 5\"",
+      "price": "$64",
+      "product_codes": [
+        { "code": "#2982", "color": "Black" },
+        { "code": "#2990", "color": "Blue" },
+        { "code": "#2978", "color": "Black" },
+        { "code": "#2980", "color": "Black" },
+        { "code": "#2988", "color": "Blue" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 21,
+      "category": "BAGS",
+      "collection": "DAVIDSON",
+      "item_name": "THE DAVIDSON IN-FLIGHT ORGANIZER",
+      "dimensions": "12.75\" x 6.5\" x 1.5\"",
+      "price": "$88",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 22,
+      "category": "BAGS",
+      "collection": "PERRY",
+      "item_name": "THE PERRY DUFFEL BAG",
+      "dimensions": "22.5\" x 9\" x 10\"",
+      "price": "$152",
+      "product_codes": [
+        { "code": "#2992", "color": "Cream" },
+        { "code": "#2993", "color": "Cream" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 23,
+      "category": "BAGS",
+      "collection": "PERRY",
+      "item_name": "THE PERRY TOILETRY BAG",
+      "dimensions": "10\" x 5\" x 8\"",
+      "price": "$56",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 24,
+      "category": "BAGS",
+      "collection": "ORIGINAL",
+      "item_name": "ORIGINAL WEEKENDER BAG",
+      "dimensions": "21\" x 6\" x 16.5\"",
+      "price": "$160",
+      "product_codes": [
+        { "code": "#3118", "color": "Military Green" },
+        { "code": "#3119", "color": "Navy Blue" },
+        { "code": "#3120", "color": "Black" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 25,
+      "category": "BAGS",
+      "collection": "ORIGINAL",
+      "item_name": "ORIGINAL DUFFEL BAG",
+      "dimensions": "24\" x 10\" x 14\"",
+      "price": "$152",
+      "product_codes": [
+        { "code": "#2580", "color": "Grey" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 26,
+      "category": "BAGS",
+      "collection": "ORIGINAL",
+      "item_name": "ORIGINAL TOILETRY BAG",
+      "dimensions": "14\" x 5\" x 7.5\"",
+      "price": "$40",
+      "product_codes": [
+        { "code": "#2514", "color": "Black" },
+        { "code": "#2512", "color": "Green" },
+        { "code": "#2582", "color": "Grey" },
+        { "code": "#2511", "color": "Blue" },
+        { "code": "#2513", "color": "Cream" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 27,
+      "category": "BAGS",
+      "collection": "ORIGINAL",
+      "item_name": "ORIGINAL GARMENT BAG",
+      "dimensions": "23.75\" x 21\" x 0.50\"",
+      "price": "$112",
+      "product_codes": [
+        { "code": "#2381", "color": "Military Green" },
+        { "code": "#2592", "color": "Off-White" },
+        { "code": "#2431", "color": "Blue" },
+        { "code": "#2382", "color": "Black" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 28,
+      "category": "BAGS",
+      "collection": "ORIGINAL",
+      "item_name": "THE PREMIUM ORIGINAL GARMENT BAG",
+      "dimensions": "23.75\" x 21\" x 0.25\"",
+      "price": "$220",
+      "product_codes": [
+        { "code": "#2583", "color": "Grey" },
+        { "code": "#2375", "color": "Navy Blue" },
+        { "code": "#2376", "color": "Military Green" },
+        { "code": "#2670", "color": "Grey" },
+        { "code": "#2540", "color": "Green" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 29,
+      "category": "BAGS",
+      "collection": "KENNEDY",
+      "item_name": "THE KENNEDY ROLLING DUFFEL",
+      "dimensions": "19\" x 12\" x 18\"",
+      "price": "$240",
+      "product_codes": [
+        { "code": "#2658", "color": "Dark Blue" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 30,
+      "category": "BAGS",
+      "collection": "KENNEDY",
+      "item_name": "THE KENNEDY DUFFEL BAG",
+      "dimensions": "21\" x 9\" x 13\"",
+      "price": "$56",
+      "product_codes": [
+        { "code": "#2655", "color": "Dark Blue" },
+        { "code": "#2656", "color": "Dark Blue" },
+        { "code": "#2657", "color": "Dark Blue" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 31,
+      "category": "BAGS",
+      "collection": "KENNEDY",
+      "item_name": "THE KENNEDY GARMENT BAG",
+      "dimensions": "26.5\" x 24.25\" x 0.5\"",
+      "price": "$128",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 32,
+      "category": "BAGS",
+      "collection": "KENNEDY",
+      "item_name": "THE KENNEDY TOILETRY BAG",
+      "dimensions": "12\" x 5.5\" x 5.5\"",
+      "price": "$152",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 33,
+      "category": "BAGS",
+      "collection": "HARTFORD",
+      "item_name": "HARTFORD TOTE DUFFEL",
+      "dimensions": "26.5\" x 9.75\" x 13.75\"",
+      "price": "$160",
+      "product_codes": [
+        { "code": "#2727", "color": "Grey" },
+        { "code": "#2729", "color": "Grey" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 34,
+      "category": "BAGS",
+      "collection": "HARTFORD",
+      "item_name": "HARTFORD DUFFEL BAG",
+      "dimensions": "29.25\" x 8.5\" x 17.25\"",
+      "price": "$152",
+      "product_codes": [
+        { "code": "#2726", "color": "Grey" },
+        { "code": "#2728", "color": "Grey" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 35,
+      "category": "BAGS",
+      "collection": "HARTFORD",
+      "item_name": "HARTFORD TOILETRY BAG",
+      "dimensions": "12.75\" x 5.5\" x 7.5\"",
+      "price": "$160",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 36,
+      "category": "BAGS",
+      "collection": "HARTFORD",
+      "item_name": "HARTFORD WEEKENDER BAG",
+      "dimensions": "29.25\" x 6.25\" x 17.25\"",
+      "price": "$60",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 37,
+      "category": "BAGS",
+      "collection": "GETAWAY",
+      "item_name": "THE GETAWAY DUFFEL BAG",
+      "dimensions": "22\" x 11\" x 12\"",
+      "price": "$142",
+      "product_codes": [
+        { "code": "#2942", "color": "Blue" },
+        { "code": "#2950", "color": "Grey" },
+        { "code": "#2943", "color": "Blue" },
+        { "code": "#2951", "color": "Grey" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 38,
+      "category": "BAGS",
+      "collection": "GETAWAY",
+      "item_name": "THE GETAWAY GARMENT BAG",
+      "dimensions": "24\" x 24.75\" x 0.5\"",
+      "price": "$42",
+      "product_codes": [
+        { "code": "#2949", "color": "Blue" },
+        { "code": "#2953", "color": "Grey" },
+        { "code": "#2948", "color": "Blue" },
+        { "code": "#2952", "color": "Grey" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 39,
+      "category": "BAGS",
+      "collection": "ETHAN",
+      "item_name": "ETHAN WEEKENDER BAG",
+      "dimensions": "19.5\" x 10\" x 14.25\"",
+      "price": "$56",
+      "product_codes": [
+        { "code": "#2849", "color": "Black" },
+        { "code": "#2850", "color": "Black" },
+        { "code": "#2852", "color": "Black" },
+        { "code": "#2851", "color": "Black" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 40,
+      "category": "BAGS",
+      "collection": "ETHAN",
+      "item_name": "ETHAN DUFFEL BAG",
+      "dimensions": "22\" x 10\" x 11\"",
+      "price": "$128",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 41,
+      "category": "BAGS",
+      "collection": "ETHAN",
+      "item_name": "ETHAN TOILETRY BAG",
+      "dimensions": "11\" x 5\" x 6.25\"",
+      "price": "$168",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 42,
+      "category": "BAGS",
+      "collection": "ETHAN",
+      "item_name": "ETHAN MESSENGER BAG",
+      "dimensions": "16.5\" x 5\" x 12\"",
+      "price": "$152",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 43,
+      "category": "BAGS",
+      "collection": "MELBOURNE",
+      "item_name": "MELBOURNE DUFFEL BAG",
+      "dimensions": "20\" x 10\" x 10.5\"",
+      "price": "$140",
+      "product_codes": [
+        { "code": "#2712", "color": "Black Croc" },
+        { "code": "#2876", "color": "Blue Croc" },
+        { "code": "#2873", "color": "Brown Croc" },
+        { "code": "#2713", "color": "Black Croc" },
+        { "code": "#2877", "color": "Blue Croc" },
+        { "code": "#2874", "color": "Brown Croc" },
+        { "code": "#2714", "color": "Black Croc" },
+        { "code": "#2878", "color": "Blue Croc" },
+        { "code": "#2875", "color": "Brown Croc" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 44,
+      "category": "BAGS",
+      "collection": "MELBOURNE",
+      "item_name": "MELBOURNE TOILETRY BAG",
+      "dimensions": "15.5\" x 5\" x 6.5\"",
+      "price": "$60",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 45,
+      "category": "BAGS",
+      "collection": "MELBOURNE",
+      "item_name": "MELBOURNE BACKPACK",
+      "dimensions": "13\" x 5.25\" x 16\"",
+      "price": "$180",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 46,
+      "category": "BAGS",
+      "collection": "ALPHA",
+      "item_name": "ALPHA LEATHER DUFFEL BAG",
+      "dimensions": "24\" x 10\" x 14\"",
+      "price": "$192",
+      "product_codes": [
+        { "code": "#2278", "color": "Blue" },
+        { "code": "#2379", "color": "Dark Green" },
+        { "code": "#2383", "color": "Grey & Black" },
+        { "code": "#2432", "color": "Chocolate Brown" },
+        { "code": "#2275", "color": "Black" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 47,
+      "category": "BAGS",
+      "collection": "ALPHA",
+      "item_name": "ALPHA BACKPACK",
+      "dimensions": "13\" x 5\" x 18\"",
+      "price": "$72",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 48,
+      "category": "BAGS",
+      "collection": "ALPHA",
+      "item_name": "ALPHA TOILETRY BAG",
+      "dimensions": "10.5\" x 5\" x 7.75\"",
+      "price": "$72",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 49,
+      "category": "BAGS",
+      "collection": "ALPHA",
+      "item_name": "ALPHA DELUXE TOILETRY BAG",
+      "dimensions": "13\" x 5.25\" x 8\"",
+      "price": "$152",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 50,
+      "category": "BAGS",
+      "collection": "ALPHA",
+      "item_name": "ALPHA DOPP KIT",
+      "dimensions": "13\" x 5.25\" x 8\"",
+      "price": "$152",
+      "product_codes": [
+        { "code": "#2401", "color": "Black & Grey" },
+        { "code": "#2402", "color": "Dark Green" },
+        { "code": "#2651", "color": "Blue" },
+        { "code": "#2276", "color": "Black" },
+        { "code": "#2318", "color": "Blue" },
+        { "code": "#2433", "color": "Chocolate Brown" },
+        { "code": "#2378", "color": "Dark Green" },
+        { "code": "#2384", "color": "Grey & Black" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 51,
+      "category": "TECH_ACCESSORIES",
+      "collection": "",
+      "item_name": "TASSEL KEYCHAIN W. USB CORD",
+      "dimensions": "5.5\" x 2\" x 0.5\"",
+      "price": "$40",
+      "product_codes": [
+        { "code": "#2964", "color": "Orange" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 52,
+      "category": "TECH_ACCESSORIES",
+      "collection": "",
+      "item_name": "CONOR WIRELESS CHARGING TRAY",
+      "dimensions": "11\" x 8\" x 0.75\"",
+      "price": "$120",
+      "product_codes": [
+        { "code": "#3097", "color": "Black" },
+        { "code": "#3098", "color": "White/Grey" }
+      ],
+      "notes": "New Release for 2022"
+    },
+    {
+      "id": 53,
+      "category": "TECH_ACCESSORIES",
+      "collection": "",
+      "item_name": "CHARGING VALET STATION",
+      "dimensions": "12.5\" x 10\" x 5\"",
+      "price": "$120",
+      "product_codes": [
+        { "code": "#2629", "color": "Red" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 54,
+      "category": "TECH_ACCESSORIES",
+      "collection": "",
+      "item_name": "TRAVEL POWER BANK HOLDER",
+      "dimensions": "Closed: 7\" x 3.75\" x 1.75\"; Open: 15.5\" x 7\" x 2\"",
+      "price": "$100",
+      "product_codes": [
+        { "code": "#2925", "color": "Black" },
+        { "code": "#2924", "color": "Brown" },
+        { "code": "#2921", "color": "Gold" },
+        { "code": "#2954", "color": "Orange" },
+        { "code": "#2922", "color": "Pink" },
+        { "code": "#2944", "color": "White" },
+        { "code": "#2923", "color": "Red" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 55,
+      "category": "TECH_ACCESSORIES",
+      "collection": "",
+      "item_name": "TRAVEL CORD ROLL",
+      "dimensions": "Closed: 5\" x 7.5\" x 0.25\"; Open: 17.5\" x 7.5\" x 0.25\"",
+      "price": "$40",
+      "product_codes": [
+        { "code": "#2463", "color": "Turquoise" },
+        { "code": "#2464", "color": "Red" },
+        { "code": "#2467", "color": "Orange" },
+        { "code": "#2468", "color": "Pink" },
+        { "code": "#2435", "color": "Black" },
+        { "code": "#2462", "color": "Blue" },
+        { "code": "#2465", "color": "Green" },
+        { "code": "#2466", "color": "Brown" },
+        { "code": "#2469", "color": "Cream" }
+      ],
+      "notes": "Best Seller!"
+    },
+    {
+      "id": 56,
+      "category": "TECH_ACCESSORIES",
+      "collection": "",
+      "item_name": "CORD SNAPS - 3 PACK",
+      "dimensions": "4\" x 4\" x 0.25\"",
+      "price": "$66",
+      "product_codes": [
+        { "code": "#2477", "color": "Turquoise/Brown/Red" },
+        { "code": "#2478", "color": "Blue/Cream/Green" },
+        { "code": "#2479", "color": "Black/Pink/Orange" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 57,
+      "category": "TECH_ACCESSORIES",
+      "collection": "",
+      "item_name": "CHARGE UP ADAPTER",
+      "dimensions": "2.25\" x 2\" x 1.75\"",
+      "price": "$32",
+      "product_codes": [
+        { "code": "#2936", "color": "Gold, Pink, Red, Brown, Black, White" },
+        { "code": "#2103", "color": "Black" },
+        { "code": "#2104", "color": "Brown" },
+        { "code": "#2650", "color": "Pink" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 58,
+      "category": "MONEY_CLIPS_WALLETS",
+      "collection": "GIANNA",
+      "item_name": "THE GIANNA WALLET",
+      "dimensions": "4.5\" x 4\" x 0.25\"",
+      "price": "$48",
+      "product_codes": [
+        { "code": "#2997", "color": "Black" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 59,
+      "category": "MONEY_CLIPS_WALLETS",
+      "collection": "STANFORD",
+      "item_name": "STANFORD WALLET",
+      "dimensions": "4.75\" x 4\" x 0.75\"",
+      "price": "$48",
+      "product_codes": [
+        { "code": "#2786", "color": "Black" },
+        { "code": "#2788", "color": "Blue" },
+        { "code": "#2787", "color": "Brown" },
+        { "code": "#2789", "color": "Grey" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 60,
+      "category": "MONEY_CLIPS_WALLETS",
+      "collection": "STANFORD",
+      "item_name": "STANFORD PASSPORT HOLDER",
+      "dimensions": "5.75\" x 4.5\" x 0.75\"",
+      "price": "$48",
+      "product_codes": [
+        { "code": "#2797", "color": "Cream" },
+        { "code": "#2798", "color": "Brown" },
+        { "code": "#2799", "color": "Grey" },
+        { "code": "#2800", "color": "Black" },
+        { "code": "#2801", "color": "Blue" },
+        { "code": "#2832", "color": "Forest Green" },
+        { "code": "#2833", "color": "Purple" },
+        { "code": "#2854", "color": "Red" },
+        { "code": "#2790", "color": "Black" },
+        { "code": "#2792", "color": "Blue" },
+        { "code": "#2791", "color": "Brown" },
+        { "code": "#2836", "color": "Cream" },
+        { "code": "#2834", "color": "Forest Green" },
+        { "code": "#2793", "color": "Grey" },
+        { "code": "#2859", "color": "Purple" },
+        { "code": "#2835", "color": "Red" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 61,
+      "category": "MONEY_CLIPS_WALLETS",
+      "collection": "ALEXA",
+      "item_name": "ALEXA LUGGAGE TAG",
+      "dimensions": "6.5\" x 3.25\" x 0.25\"",
+      "price": "$48",
+      "product_codes": [
+        { "code": "#2818", "color": "Chestnut" },
+        { "code": "#2817", "color": "Ivory" },
+        { "code": "#2815", "color": "Navy Blue" },
+        { "code": "#2819", "color": "Orange" },
+        { "code": "#2816", "color": "Red" },
+        { "code": "#2814", "color": "Taupe" },
+        { "code": "#2229", "color": "Silver" },
+        { "code": "#2855", "color": "Cream" },
+        { "code": "#2857", "color": "Forest Green" },
+        { "code": "#2858", "color": "Purple" },
+        { "code": "#2856", "color": "Red" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 62,
+      "category": "MONEY_CLIPS_WALLETS",
+      "collection": "CLASSIC",
+      "item_name": "THE CLASSIC MANS MONEY CLIP CARD CASE",
+      "dimensions": "4.25\" x 2.75\" x 0.5\"",
+      "price": "$48",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 63,
+      "category": "MONEY_CLIPS_WALLETS",
+      "collection": "SUPREME",
+      "item_name": "SUPREME MONEYCLIP",
+      "dimensions": "2.75\" x 1.5\" x 0.25\"",
+      "price": "$48",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 64,
+      "category": "MONEY_CLIPS_WALLETS",
+      "collection": "SUPREME",
+      "item_name": "SUPREME SLIM MONEYCLIP",
+      "dimensions": "2.5\" x 1\" x 0.25\"",
+      "price": "$36",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 65,
+      "category": "MONEY_CLIPS_WALLETS",
+      "collection": "UNBOUND",
+      "item_name": "UNBOUND CARD CASE",
+      "dimensions": "4.25\" x 3.25\" x 0.25\"",
+      "price": "$36",
+      "product_codes": [
+        { "code": "#2559", "color": "Grey/Black" },
+        { "code": "#2558", "color": "Purple/Black" },
+        { "code": "#2560", "color": "Purple/Black" },
+        { "code": "#2561", "color": "Grey/Black" },
+        { "code": "#2389", "color": "Blue" },
+        { "code": "#2501", "color": "Black" },
+        { "code": "#2502", "color": "Brown" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 66,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "THE GENUINE THROWALL",
+      "dimensions": "10.5\" x 11\" x 0.25\"",
+      "price": "$56",
+      "product_codes": [
+        { "code": "#2138", "color": "Grey" },
+        { "code": "#2139", "color": "Black" },
+        { "code": "#2545", "color": "Brown" },
+        { "code": "#2546", "color": "Dark Blue" },
+        { "code": "#2128-RY", "color": "Black" },
+        { "code": "#2362", "color": "Dark Blue Ostrich" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 67,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "THE EMPTY POCKET TRAY",
+      "dimensions": "7\" x 7\" x 2\"",
+      "price": "$100",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 68,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "THROW ALL HOLDER",
+      "dimensions": "7\" x 7\" x 2.25\"",
+      "price": "$56",
+      "product_codes": [
+        { "code": "#2125", "color": "Black Croc" },
+        { "code": "#2931", "color": "Gold" },
+        { "code": "#2932", "color": "Pink" },
+        { "code": "#2933", "color": "Red" },
+        { "code": "#2934", "color": "Brown" },
+        { "code": "#2935", "color": "Black" },
+        { "code": "#2946", "color": "White" },
+        { "code": "#2955", "color": "Orange" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 69,
+      "category": "ORGANIZATION",
+      "collection": "LUNA",
+      "item_name": "LUNA LARGE TRAVEL JEWELRY CASE",
+      "dimensions": "9.75\" x 7.25\" x 2.25\"",
+      "price": "$149",
+      "product_codes": [
+        { "code": "#3016", "color": "Navy" },
+        { "code": "#3017", "color": "Grey" },
+        { "code": "#3018", "color": "Red" },
+        { "code": "#3019", "color": "Blush" },
+        { "code": "#3020", "color": "Silver" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 70,
+      "category": "ORGANIZATION",
+      "collection": "LUNA",
+      "item_name": "LUNA MEDIUM TRAVEL JEWELRY CASE",
+      "dimensions": "8.25\" x 4.75\" x 2.25\"",
+      "price": "$99",
+      "product_codes": [
+        { "code": "#3028", "color": "Navy" },
+        { "code": "#3030", "color": "Red" },
+        { "code": "#3031", "color": "Blush" },
+        { "code": "#3032", "color": "Silver" },
+        { "code": "#3033", "color": "Brown" },
+        { "code": "#3029", "color": "Grey" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 71,
+      "category": "ORGANIZATION",
+      "collection": "LUNA",
+      "item_name": "LUNA SMALL TRAVEL JEWELRY CASE",
+      "dimensions": "4.5\" x 4.5\" x 2.25\"",
+      "price": "$59",
+      "product_codes": [
+        { "code": "#3043", "color": "Blush" },
+        { "code": "#3044", "color": "Silver" },
+        { "code": "#3045", "color": "Brown" },
+        { "code": "#3041", "color": "Grey" },
+        { "code": "#3042", "color": "Red" },
+        { "code": "#3040", "color": "Navy" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 72,
+      "category": "ORGANIZATION",
+      "collection": "LUNA",
+      "item_name": "LUNA PETITE TRAVEL JEWELRY BOX",
+      "dimensions": "3.5\" x 4\" x 2.5\"",
+      "price": "$49",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 73,
+      "category": "ORGANIZATION",
+      "collection": "LUNA",
+      "item_name": "LUNA TRAVEL JEWELRY WALLET",
+      "dimensions": "8.5\" x 4.5\" x 0.5\"",
+      "price": "$79",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 74,
+      "category": "ORGANIZATION",
+      "collection": "LUNA",
+      "item_name": "LUNA TRAVEL JEWELRY ROLL",
+      "dimensions": "9\" x 5.5\" x 0.75\"",
+      "price": "$59",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 75,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "ABBY TRAVEL ORGANIZER",
+      "dimensions": "8.25\" x 3.75\" x 5.5\"",
+      "price": "$104",
+      "product_codes": [
+        { "code": "#2884", "color": "Black" },
+        { "code": "#2885", "color": "Pearl White" },
+        { "code": "#2886", "color": "Gold" },
+        { "code": "#2887", "color": "Pink" },
+        { "code": "#2888", "color": "Brown" },
+        { "code": "#2889", "color": "Red" },
+        { "code": "#2957", "color": "Orange" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 76,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "LEAH TRAVEL JEWELRY CASE",
+      "dimensions": "4.75\" x 4.75\" x 2.75\"",
+      "price": "$60",
+      "product_codes": [
+        { "code": "#2968", "color": "Black" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 77,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "ABBY TRAVEL JEWELRY ROLL",
+      "dimensions": "Closed: 8\" x 3\" x 2.25\"; Open: 12\" x 8\" x 0.25\"",
+      "price": "$60",
+      "product_codes": [
+        { "code": "#2958", "color": "Orange" },
+        { "code": "#2890", "color": "Black" },
+        { "code": "#2891", "color": "Pearl White" },
+        { "code": "#2892", "color": "Gold" },
+        { "code": "#2893", "color": "Pink" },
+        { "code": "#2894", "color": "Brown" },
+        { "code": "#2895", "color": "Red" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 78,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "LEAH TRAVEL COSMETIC CASE",
+      "dimensions": "9.25\" x 8\" x 7.25\"",
+      "price": "$112",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 79,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "LEAH 3PC COSMETIC CASE",
+      "dimensions": "9.25\" x 6.25\" x 4\"",
+      "price": "$160",
+      "product_codes": [
+        { "code": "#3201", "color": "Pale Pink" },
+        { "code": "#3202", "color": "Light Grey" },
+        { "code": "#3203", "color": "Gold" },
+        { "code": "#3204", "color": "Black" },
+        { "code": "#3205", "color": "Red" }
+      ],
+      "notes": "New Release for 2022"
+    },
+    {
+      "id": 80,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "LAUREL JEWELRY BOX",
+      "dimensions": "12.25\" x 9.25\" x 8.5\"",
+      "price": "$380",
+      "product_codes": [
+        { "code": "#3215", "color": "Grey" },
+        { "code": "#3216", "color": "Navy" },
+        { "code": "#3217", "color": "Baby Blue" },
+        { "code": "#3218", "color": "Black" }
+      ],
+      "notes": "New Release for 2022"
+    },
+    {
+      "id": 81,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "STACKABLE JEWELRY BOX - SET OF 2",
+      "dimensions": "12\" x 7\" x 5.25\"",
+      "price": "$200",
+      "product_codes": [
+        { "code": "#2634", "color": "Silver" },
+        { "code": "#2636", "color": "Navy" },
+        { "code": "#2637", "color": "Pink" },
+        { "code": "#2635", "color": "White" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 82,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "RILEY STACKABLE JEWELRY BOX",
+      "dimensions": "12.25\" x 7.75\" x 6\"",
+      "price": "$260",
+      "product_codes": [
+        { "code": "#3152", "color": "Black" },
+        { "code": "#3153", "color": "Navy" },
+        { "code": "#3154", "color": "Brown" },
+        { "code": "#3155", "color": "Pink" }
+      ],
+      "notes": "New Release for 2022"
+    },
+    {
+      "id": 83,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "RILEY 3 TRAY JEWELRY BOX",
+      "dimensions": "11.5\" x 8.5\" x 6.5\"",
+      "price": "$320",
+      "product_codes": [
+        { "code": "#3227", "color": "Black" },
+        { "code": "#3228", "color": "Coral" }
+      ],
+      "notes": "New Release for 2022"
+    },
+    {
+      "id": 84,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "SAIGE BOX WITH KEY",
+      "dimensions": "12\" x 7.25\" x 3\"",
+      "price": "$? TBD",
+      "product_codes": [
+        { "code": "#3206", "color": "Black" },
+        { "code": "#3207", "color": "Blue" },
+        { "code": "#3208", "color": "Light Grey" }
+      ],
+      "notes": "New Release for 2022"
+    },
+    {
+      "id": 85,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "SAIGE STACKABLE JEWELRY BOX",
+      "dimensions": "12\" x 7\" x 5.25\"",
+      "price": "$? TBD",
+      "product_codes": [
+        { "code": "#3149", "color": "Green" },
+        { "code": "#3150", "color": "Pink" },
+        { "code": "#3151", "color": "Light Brown" },
+        { "code": "#3148", "color": "Grey" },
+        { "code": "#3156", "color": "Grey" },
+        { "code": "#3157", "color": "Green" },
+        { "code": "#3158", "color": "Pink" },
+        { "code": "#3159", "color": "Light Brown" }
+      ],
+      "notes": "New Release for 2022"
+    },
+    {
+      "id": 86,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "AIDEN STACKABLE JEWELRY BOX",
+      "dimensions": "12.25\" x 7.75\" x 6\"",
+      "price": "$320",
+      "product_codes": [
+        { "code": "#3160", "color": "Black" },
+        { "code": "#3161", "color": "Navy" },
+        { "code": "#3162", "color": "Brown" },
+        { "code": "#3163", "color": "Pink" },
+        { "code": "#3164", "color": "Grey" },
+        { "code": "#3165", "color": "Green" },
+        { "code": "#3166", "color": "Pink" },
+        { "code": "#3167", "color": "Light Brown" }
+      ],
+      "notes": "New Release for 2022"
+    },
+    {
+      "id": 87,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "RILEY 1 TRAY JEWELRY BOX",
+      "dimensions": "8.5\" x 6\" x 5\"",
+      "price": "$240",
+      "product_codes": [
+        { "code": "#3168", "color": "Black" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 88,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "RILEY SINGLE HINGED JEWELRY BOX",
+      "dimensions": "12\" x 8\" x 3.25\"",
+      "price": "$180",
+      "product_codes": [
+        { "code": "#3173", "color": "Green" },
+        { "code": "#3174", "color": "Pink" },
+        { "code": "#3175", "color": "Light Brown" },
+        { "code": "#3172", "color": "Grey" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 89,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "JODI 3 TRAY LARGE JEWELRY BOX",
+      "dimensions": "8.25\" x 7.5\" x 3.75\"",
+      "price": "$160",
+      "product_codes": [
+        { "code": "#3194", "color": "Black" },
+        { "code": "#3195", "color": "Blush" },
+        { "code": "#3196", "color": "Grey" },
+        { "code": "#3197", "color": "Pink" },
+        { "code": "#3198", "color": "Gold" },
+        { "code": "#3199", "color": "Silver" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 90,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "JODI 2 TRAY SMALL JEWELRY BOX",
+      "dimensions": "4.5\" x 4.5\" x 3\"",
+      "price": "$80",
+      "product_codes": [
+        { "code": "#3188", "color": "Black" },
+        { "code": "#3189", "color": "Blush" },
+        { "code": "#3190", "color": "Grey" },
+        { "code": "#3191", "color": "Pink" },
+        { "code": "#3192", "color": "Gold" },
+        { "code": "#3193", "color": "Silver" }
+      ],
+      "notes": "New Release for 2022"
+    },
+    {
+      "id": 91,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "KENDALL JEWELRY BOX",
+      "dimensions": "12\" x 9.5\" x 6.5\"",
+      "price": "$220",
+      "product_codes": [
+        { "code": "#3229", "color": "Pink" },
+        { "code": "#3230", "color": "Baby Blue" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 92,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "KENDALL SMALL JEWELRY BOX",
+      "dimensions": "9.25\" x 7.25\" x 5\"",
+      "price": "$200",
+      "product_codes": [
+        { "code": "#3233", "color": "Grey" },
+        { "code": "#3234", "color": "Navy" },
+        { "code": "#3235", "color": "White" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 93,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "THE MADISON JEWELRY BOX",
+      "dimensions": "9.5\" x 6.5\" x 6.75\"",
+      "price": "$180",
+      "product_codes": [
+        { "code": "#2703", "color": "Ivory/Taupe/Brown" },
+        { "code": "#2706", "color": "Ivory/Taupe/Brown" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 94,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "THE MADISON STACKABLE JEWELRY BOX",
+      "dimensions": "10.25\" x 7.5\" x 5.75\"",
+      "price": "$88",
+      "product_codes": [
+        { "code": "#2704", "color": "Ivory/Taupe/Brown" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 95,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "THE MADISON TRAVEL JEWELRY BOX",
+      "dimensions": "10.75\" x 4.25\" x 3\"",
+      "price": "$180",
+      "product_codes": [
+        { "code": "#2705", "color": "Ivory/Taupe/Brown" },
+        { "code": "#2881", "color": "Pink" },
+        { "code": "#2882", "color": "Grey" },
+        { "code": "#2883", "color": "Baby Blue" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 96,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "LEO JEWELRY BOX",
+      "dimensions": "8.5\" x 7\" x 6.75\"",
+      "price": "$240",
+      "product_codes": [
+        { "code": "#2709", "color": "Grey" },
+        { "code": "#2802", "color": "Black" },
+        { "code": "#2965", "color": "Blush" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 97,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "LEO TRAVEL JEWELRY CLUTCH",
+      "dimensions": "9\" x 4.5\" x 1.5\"",
+      "price": "$96",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 98,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "LEO TRAVEL JEWELRY BOX",
+      "dimensions": "11.25\" x 4\" x 3\"",
+      "price": "$88",
+      "product_codes": [
+        { "code": "#2967", "color": "Blush" },
+        { "code": "#2966", "color": "Blush" },
+        { "code": "#2710", "color": "Grey" },
+        { "code": "#2711", "color": "Grey" },
+        { "code": "#2803", "color": "Black" },
+        { "code": "#2804", "color": "Black" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 99,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "ZOE JEWELRY BOX",
+      "dimensions": "12\" x 9.25\" x 7.25\"",
+      "price": "$300",
+      "product_codes": [
+        { "code": "#2754", "color": "Blush" },
+        { "code": "#2805", "color": "Black" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 100,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "THE SARA TRAVELING JEWELRY BOX",
+      "dimensions": "11\" x 6.5\" x 5.5\"",
+      "price": "$240",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 101,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "SOPHIE JEWELRY TRUNK",
+      "dimensions": "22.5\" x 11.25\" x 10\"",
+      "price": "$880",
+      "product_codes": [
+        { "code": "#2707", "color": "White/Black" },
+        { "code": "#2708", "color": "White" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 102,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "EDWIN TRAVEL BOX",
+      "dimensions": "11\" x 6.75\" x 4.75\"",
+      "price": "$160",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 103,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "EDWIN JEWELRY BOX",
+      "dimensions": "11\" x 9\" x 2.5\"",
+      "price": "$88",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 104,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "EDWIN TRAVEL WATCH BOX",
+      "dimensions": "10.25\" x 4.25\" x 3\"",
+      "price": "$100",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 105,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "EDWIN STACKABLE JEWELRY BOX AND TRAY",
+      "dimensions": "13.75\" x 11.25\" x 5.75\"",
+      "price": "$260",
+      "product_codes": [
+        { "code": "#2698", "color": "Navy" },
+        { "code": "#2700", "color": "Navy" },
+        { "code": "#2699", "color": "Navy" },
+        { "code": "#2697", "color": "Navy" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 106,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "WILLIAM DOUBLE WATCH WINDER",
+      "dimensions": "9.75\" x 7\" x 8.25\"",
+      "price": "$340",
+      "product_codes": [
+        { "code": "#2960", "color": "Brown" },
+        { "code": "#2959", "color": "Brown" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 107,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "BRADFORD 2 SLOT WATCH WINDER",
+      "dimensions": "10.5\" x 6.25\" x 11\"",
+      "price": "$560",
+      "product_codes": [
+        { "code": "#2735-01", "color": "Matte Grey" },
+        { "code": "#2735-02", "color": "Matte Grey" },
+        { "code": "#2735_03", "color": "Matte Grey" },
+        { "code": "#2735-08", "color": "Matte Grey" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 108,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "BRADFORD 1 SLOT WATCH WINDER",
+      "dimensions": "6.25\" x 6.25\" x 11.25\"",
+      "price": "$640",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 109,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "BRADFORD DOUBLE WATCH WINDER",
+      "dimensions": "1.25\" x 5.5\" x 9.25\"",
+      "price": "$480",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 110,
+      "category": "ORGANIZATION",
+      "collection": "",
+      "item_name": "BRADFORD 10 SLOT WATCH CASE",
+      "dimensions": "14.5\" x 8.75\" x 4\"",
+      "price": "$300",
+      "product_codes": [
+        { "code": "#2735-04", "color": "Matte Grey" },
+        { "code": "#2735-05", "color": "Matte Grey" },
+        { "code": "#2735-06", "color": "Matte Grey" },
+        { "code": "#2735-07", "color": "Matte Grey" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 111,
+      "category": "PICTURE_FRAMES",
+      "collection": "ATHENA",
+      "item_name": "ATHENA FRAME (4×6)",
+      "dimensions": "4×6",
+      "price": "$80",
+      "product_codes": [
+        { "code": "#2848-46", "color": "Gold" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 112,
+      "category": "PICTURE_FRAMES",
+      "collection": "KENDALL",
+      "item_name": "KENDALL FRAME (4×6)",
+      "dimensions": "4×6",
+      "price": "$64",
+      "product_codes": [
+        { "code": "#2846-46", "color": "White" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 113,
+      "category": "PICTURE_FRAMES",
+      "collection": "BRADFORD",
+      "item_name": "BRADFORD FRAME (4×6)",
+      "dimensions": "4×6",
+      "price": "$? TBD",
+      "product_codes": [
+        { "code": "#2901", "color": "Rose Gold" },
+        { "code": "#2903", "color": "Silver" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 114,
+      "category": "PICTURE_FRAMES",
+      "collection": "",
+      "item_name": "OSTRICH STYLE LEATHER FRAME (5×7)",
+      "dimensions": "5×7",
+      "price": "$? TBD",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 115,
+      "category": "PICTURE_FRAMES",
+      "collection": "CARBON_FIBER",
+      "item_name": "CARBON FIBER FRAME (4×6)",
+      "dimensions": "4×6",
+      "price": "$? TBD",
+      "product_codes": [
+        { "code": "#2360", "color": "Dark Blue" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 116,
+      "category": "PICTURE_FRAMES",
+      "collection": "MATTE_EBONY",
+      "item_name": "MATTE EBONY FRAME (4×6)",
+      "dimensions": "4×6",
+      "price": "$? TBD",
+      "product_codes": [
+        { "code": "#2753", "color": "Brown" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 117,
+      "category": "PICTURE_FRAMES",
+      "collection": "LAUREL",
+      "item_name": "LAUREL FRAME (4×6)",
+      "dimensions": "4×6",
+      "price": "$? TBD",
+      "product_codes": [
+        { "code": "#2842-46", "color": "Mint Green" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 118,
+      "category": "PICTURE_FRAMES",
+      "collection": "AIDEN",
+      "item_name": "AIDEN FRAME (4×6)",
+      "dimensions": "4×6",
+      "price": "$? TBD",
+      "product_codes": [
+        { "code": "#3285", "color": "Grey" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 119,
+      "category": "PICTURE_FRAMES",
+      "collection": "SAIGE",
+      "item_name": "SAIGE FRAME (4×6)",
+      "dimensions": "4×6",
+      "price": "$? TBD",
+      "product_codes": [
+        { "code": "#3219", "color": "Grey/White" }
+      ],
+      "notes": "New Release for 2022"
+    },
+    {
+      "id": 120,
+      "category": "TOOLS_GADGETS",
+      "collection": "",
+      "item_name": "THE LIGHTER FIX-IT SET",
+      "dimensions": "6\" x 1.25\" x 1.25\"",
+      "price": "$48",
+      "product_codes": [
+        { "code": "#2345", "color": "Gunmetal Finish" }
+      ],
+      "notes": "Batteries Included"
+    },
+    {
+      "id": 121,
+      "category": "TOOLS_GADGETS",
+      "collection": "",
+      "item_name": "THE MODERN MAN’S LANTERN",
+      "dimensions": "8\" x 2.25\" x 2.25\"",
+      "price": "$64",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 122,
+      "category": "TOOLS_GADGETS",
+      "collection": "",
+      "item_name": "THE MULTI FUNCTION CARABINER TOOL",
+      "dimensions": "4.25\" x 1.25\" x 1\"",
+      "price": "$56",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 123,
+      "category": "TOOLS_GADGETS",
+      "collection": "",
+      "item_name": "FOLD EM’ UP HUNTERS KNIFE",
+      "dimensions": "4\" x 1.5\" x 0.5\"",
+      "price": "$20",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 124,
+      "category": "TOOLS_GADGETS",
+      "collection": "",
+      "item_name": "THE SURVIVAL CARABINER TOOL",
+      "dimensions": "0.5\" x 2\" x 0.25\"",
+      "price": "$24",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 125,
+      "category": "TOOLS_GADGETS",
+      "collection": "",
+      "item_name": "THE BIKE REPAIR CARRY TOOL",
+      "dimensions": "4\" x 1.5\" x 0.25\"",
+      "price": "$28.50",
+      "product_codes": [
+        { "code": "#2352", "color": "Black" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 126,
+      "category": "TOOLS_GADGETS",
+      "collection": "",
+      "item_name": "TRAVEL SOLAR BANK",
+      "dimensions": "5.75\" x 3\" x 0.75\"",
+      "price": "$? TBD",
+      "product_codes": [],
+      "notes": "Battery details vary"
+    },
+    {
+      "id": 127,
+      "category": "TOOLS_GADGETS",
+      "collection": "",
+      "item_name": "CAMPING CUTLERY SET",
+      "dimensions": "4\" x 1.5\" x 1\"",
+      "price": "$? TBD",
+      "product_codes": [
+        { "code": "#2451", "color": "Black" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 128,
+      "category": "GROOMING",
+      "collection": "",
+      "item_name": "COLONEL CLEAN SHAVING SET",
+      "dimensions": "Varies",
+      "price": "$180",
+      "product_codes": [
+        { "code": "#2594", "color": "Black" },
+        { "code": "#2593", "color": "Black" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 129,
+      "category": "GROOMING",
+      "collection": "",
+      "item_name": "JACKSON SHAVING SET",
+      "dimensions": "Varies",
+      "price": "$120",
+      "product_codes": [
+        { "code": "#2599", "color": "Cream/Wood" },
+        { "code": "#2597", "color": "Grey/Wood" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 130,
+      "category": "GROOMING",
+      "collection": "",
+      "item_name": "WINSTON RAZOR HANDLE",
+      "dimensions": "Varies",
+      "price": "$160",
+      "product_codes": [
+        { "code": "#2294", "color": "Black" },
+        { "code": "#2295", "color": "Blue" },
+        { "code": "#2296", "color": "Brown" },
+        { "code": "#2598", "color": "Black" },
+        { "code": "#2290", "color": "Grey" }
+      ],
+      "notes": "Includes dummy blade"
+    },
+    {
+      "id": 131,
+      "category": "GROOMING",
+      "collection": "",
+      "item_name": "DC RAZOR STAND",
+      "dimensions": "Varies",
+      "price": "$88",
+      "product_codes": [
+        { "code": "#2601", "color": "Gold" },
+        { "code": "#2600", "color": "Silver" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 132,
+      "category": "GROOMING",
+      "collection": "",
+      "item_name": "SHOE SHINE KIT",
+      "dimensions": "4\" x 4\" x 4\"",
+      "price": "$80",
+      "product_codes": [
+        { "code": "#2470", "color": "Black" },
+        { "code": "#2471", "color": "Brown" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 133,
+      "category": "GROOMING",
+      "collection": "",
+      "item_name": "CIRCULAR MANICURE SET",
+      "dimensions": "5\" x 5\" x 1.75\"",
+      "price": "$64",
+      "product_codes": [
+        { "code": "#2940", "color": "Brown" },
+        { "code": "#2941", "color": "Black" },
+        { "code": "#2947", "color": "White" },
+        { "code": "#2939", "color": "Red" },
+        { "code": "#2956", "color": "Orange" },
+        { "code": "#2938", "color": "Pink" },
+        { "code": "#2937", "color": "Gold" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 134,
+      "category": "GROOMING",
+      "collection": "",
+      "item_name": "PRIMER MANICURE SET",
+      "dimensions": "4.25\" x 3\" x 0.5\"",
+      "price": "$60",
+      "product_codes": [
+        { "code": "#2124", "color": "Black Croc" },
+        { "code": "#2621", "color": "Brown" },
+        { "code": "#2648", "color": "Black" },
+        { "code": "#2649", "color": "Pink" },
+        { "code": "#2390", "color": "Blue" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 135,
+      "category": "GROOMING",
+      "collection": "",
+      "item_name": "PRIMER MANICURE SET (Alternate)",
+      "dimensions": "4.25\" x 1\" x 3\"",
+      "price": "$60",
+      "product_codes": [
+        { "code": "#2690", "color": "Cream" },
+        { "code": "#2691", "color": "Light Grey" },
+        { "code": "#2692", "color": "Sky Blue" },
+        { "code": "#2693", "color": "Black" },
+        { "code": "#2694", "color": "Pink" },
+        { "code": "#2695", "color": "Taupe" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 136,
+      "category": "GROOMING",
+      "collection": "",
+      "item_name": "ON THE GO GROOMING AND SHOE-SHINE KIT",
+      "dimensions": "8.75\" x 6.75\" x 1.75\"",
+      "price": "$160",
+      "product_codes": [],
+      "notes": "New Release for 2022"
+    },
+    {
+      "id": 137,
+      "category": "FLASKS",
+      "collection": "",
+      "item_name": "KEEP IT PERSONAL FLASK W/ WHITE STITCHING 8oz",
+      "dimensions": "8oz",
+      "price": "$48",
+      "product_codes": [
+        { "code": "#2105", "color": "Black" },
+        { "code": "#2106", "color": "Brown" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 138,
+      "category": "FLASKS",
+      "collection": "",
+      "item_name": "THE ART OF FLASKING 6oz",
+      "dimensions": "6oz",
+      "price": "$48",
+      "product_codes": [
+        { "code": "#2259", "color": "Pink" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 139,
+      "category": "FLASKS",
+      "collection": "",
+      "item_name": "THE SHARP CANTEEN 6oz",
+      "dimensions": "6oz",
+      "price": "$48",
+      "product_codes": [
+        { "code": "#2164", "color": "Black" },
+        { "code": "#2167", "color": "Chocolate Brown" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 140,
+      "category": "FLASKS",
+      "collection": "",
+      "item_name": "THE OH 'DEER' FLASK 6oz",
+      "dimensions": "6oz",
+      "price": "$64",
+      "product_codes": [
+        { "code": "#2524", "color": "Red Roses" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 141,
+      "category": "FLASKS",
+      "collection": "",
+      "item_name": "THE CHECKERED CANTEEN 6oz",
+      "dimensions": "6oz",
+      "price": "$58",
+      "product_codes": [
+        { "code": "#2254", "color": "Leopard" },
+        { "code": "#2256", "color": "Camo" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 142,
+      "category": "FLASKS",
+      "collection": "",
+      "item_name": "THE PARTY FLASK 7oz",
+      "dimensions": "7oz",
+      "price": "$48",
+      "product_codes": [
+        { "code": "#2394", "color": "Yellow" },
+        { "code": "#2395", "color": "Blue" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 143,
+      "category": "FLASKS",
+      "collection": "",
+      "item_name": "SQUARELY SOPHISTICATED FLASK 3oz",
+      "dimensions": "3oz",
+      "price": "$64",
+      "product_codes": [
+        { "code": "#2160", "color": "Silver" },
+        { "code": "#2169", "color": "Silver" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 144,
+      "category": "FLASKS",
+      "collection": "",
+      "item_name": "THE OH 'DEER' FLASK 6oz (Special Price)",
+      "dimensions": "6oz",
+      "price": "$16",
+      "product_codes": [
+        { "code": "#3123", "color": "Brown Croco" },
+        { "code": "#3124", "color": "Blue Ostrich" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 145,
+      "category": "FLASKS",
+      "collection": "",
+      "item_name": "GAMER FLASK SET 6oz",
+      "dimensions": "6oz",
+      "price": "$? TBD",
+      "product_codes": [
+        { "code": "#2163", "color": "Black Croc" },
+        { "code": "#2397", "color": "Brown Croc" },
+        { "code": "#2528", "color": "Pink Croc" },
+        { "code": "#2529", "color": "Purple Croc" },
+        { "code": "#2495", "color": "Black Croc" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 146,
+      "category": "FLASKS",
+      "collection": "",
+      "item_name": "SQUARELY SOPHISTICATED FLASK 3oz",
+      "dimensions": "3oz",
+      "price": "$64",
+      "product_codes": [
+        { "code": "#3068", "color": "Black" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 147,
+      "category": "BARWARE",
+      "collection": "",
+      "item_name": "THE COPPER CUP 18oz",
+      "dimensions": "18oz",
+      "price": "$100",
+      "product_codes": [
+        { "code": "#2215", "color": "Black" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 148,
+      "category": "BARWARE",
+      "collection": "",
+      "item_name": "THE COPPER HAMMERED MUG 16oz",
+      "dimensions": "16oz",
+      "price": "$24",
+      "product_codes": [
+        { "code": "#2918", "color": "Clear Glass" },
+        { "code": "#2917", "color": "Clear Glass" },
+        { "code": "#2420", "color": "Silver" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 149,
+      "category": "BARWARE",
+      "collection": "",
+      "item_name": "THE BURRO COPPER MUGS - SET OF 2 - 16oz",
+      "dimensions": "16oz",
+      "price": "$48",
+      "product_codes": [
+        { "code": "#2491", "color": "Black Croc" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 150,
+      "category": "BARWARE",
+      "collection": "",
+      "item_name": "MINI MOSCOW SET OF 4 - 2oz",
+      "dimensions": "2oz",
+      "price": "$154",
+      "product_codes": [
+        { "code": "#2783", "color": "Silver/Brown" },
+        { "code": "#2785", "color": "Gunmetal" },
+        { "code": "#2784", "color": "Copper" },
+        { "code": "#2214", "color": "Silver" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 151,
+      "category": "BARWARE",
+      "collection": "",
+      "item_name": "SHAKE ‘EM UP COCKTAIL SHAKER 24oz",
+      "dimensions": "24oz",
+      "price": "$80",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 152,
+      "category": "CIGAR_ACCESSORIES",
+      "collection": "",
+      "item_name": "KEEP IT FRESH CIGAR HOLDER DOUBLE IN OSTRICH LEATHER",
+      "dimensions": "7.25\" x 3\" x 1\"",
+      "price": "$64",
+      "product_codes": [
+        { "code": "#2308", "color": "Grey Ostrich" },
+        { "code": "#2309", "color": "Blue Ostrich" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 153,
+      "category": "CIGAR_ACCESSORIES",
+      "collection": "",
+      "item_name": "BLACK CROC TRIPLE CIGAR HOLDER",
+      "dimensions": "8\" x 4\" x 1\"",
+      "price": "$80",
+      "product_codes": [
+        { "code": "#2310", "color": "Grey Ostrich" },
+        { "code": "#2607", "color": "Black Croc" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 154,
+      "category": "CIGAR_ACCESSORIES",
+      "collection": "",
+      "item_name": "KEEP IT FRESH CIGAR HOLDER TRIPLE IN OSTRICH LEATHER",
+      "dimensions": "7.25\" x 3.5\" x 1\"",
+      "price": "$96",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 155,
+      "category": "CIGAR_ACCESSORIES",
+      "collection": "",
+      "item_name": "STAINLESS STEEL DOUBLE CIGAR HOLDER",
+      "dimensions": "2\" x 1\" x 7.25\"",
+      "price": "$280",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 156,
+      "category": "CIGAR_ACCESSORIES",
+      "collection": "",
+      "item_name": "GOLD TRIM CIGAR TUBE",
+      "dimensions": "7\" x 1\" x 7\"",
+      "price": "$? TBD",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 157,
+      "category": "CIGAR_ACCESSORIES",
+      "collection": "",
+      "item_name": "HIGH BIRD CIGAR HUMIDOR",
+      "dimensions": "2\" x 2\" x 9\"",
+      "price": "$108",
+      "product_codes": [
+        { "code": "#2496", "color": "Silver" },
+        { "code": "#2604", "color": "Silver" },
+        { "code": "#2201", "color": "Black" },
+        { "code": "#2202", "color": "Black" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 158,
+      "category": "CIGAR_ACCESSORIES",
+      "collection": "",
+      "item_name": "BLUE FALCON CIGAR HUMIDOR",
+      "dimensions": "3.5\" x 3.5\" x 8\"",
+      "price": "$108",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 159,
+      "category": "CIGAR_ACCESSORIES",
+      "collection": "",
+      "item_name": "OSTRICH TRAVEL CIGAR HUMIDOR",
+      "dimensions": "8\" x 3\" x 3\"",
+      "price": "$64",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 160,
+      "category": "CIGAR_ACCESSORIES",
+      "collection": "",
+      "item_name": "BROWN LIZARD TRAVEL CIGAR HUMIDOR",
+      "dimensions": "8\" x 3\" x 3\"",
+      "price": "$80",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 161,
+      "category": "GAMES",
+      "collection": "BRADFORD",
+      "item_name": "BRADFORD BACKGAMMON SET",
+      "dimensions": "15.5\" x 10.5\" x 3\"",
+      "price": "$400",
+      "product_codes": [
+        { "code": "#2963", "color": "Matte Grey" },
+        { "code": "#2735-09", "color": "Matte Grey" },
+        { "code": "#2735-10", "color": "Gunmetal" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 162,
+      "category": "GAMES",
+      "collection": "",
+      "item_name": "POKER SET",
+      "dimensions": "8\" x 4.25\" x 3\"",
+      "price": "$240",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 163,
+      "category": "GAMES",
+      "collection": "",
+      "item_name": "CARD SET",
+      "dimensions": "6.75\" x 5\" x 2.25\"",
+      "price": "$80",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 164,
+      "category": "GAMES",
+      "collection": "",
+      "item_name": "100 CHIP POKER SET",
+      "dimensions": "11.25\" x 5\" x 2.25\"",
+      "price": "$245",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 165,
+      "category": "GAMES",
+      "collection": "",
+      "item_name": "200 CHIP POKER SET",
+      "dimensions": "12.75\" x 9.25\" x 3.5\"",
+      "price": "$? TBD",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 166,
+      "category": "GAMES",
+      "collection": "",
+      "item_name": "DOMINO SET",
+      "dimensions": "8\" x 5\" x 2\"",
+      "price": "$115",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 167,
+      "category": "GAMES",
+      "collection": "",
+      "item_name": "500 CHIP POKER SET",
+      "dimensions": "13.25\" x 9.75\" x 5\"",
+      "price": "$345",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 168,
+      "category": "GAMES",
+      "collection": "",
+      "item_name": "BACKGAMMON SET",
+      "dimensions": "16.5\" x 10.5\" x 2.75\"",
+      "price": "$660",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 169,
+      "category": "GAMES",
+      "collection": "",
+      "item_name": "CARD SET",
+      "dimensions": "6.75\" x 5\" x 2.25\"",
+      "price": "$124",
+      "product_codes": [],
+      "notes": ""
+    },
+    {
+      "id": 170,
+      "category": "GAMES",
+      "collection": "",
+      "item_name": "300 CHIP POKER SET",
+      "dimensions": "16\" x 8.75\" x 3.25\"",
+      "price": "$218",
+      "product_codes": [
+        { "code": "#2962", "color": "Black" }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 171,
+      "category": "PERSONALIZATION",
+      "collection": "",
+      "item_name": "PERSONALIZATION SERVICES",
+      "dimensions": "",
+      "price": "",
+      "product_codes": [],
+      "notes": "Available: Embroidery, Laser Engraving, Vinyl, UV Printing, Logo Branding"
+    }
+  ]
+}
+

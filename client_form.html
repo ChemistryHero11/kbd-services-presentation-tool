@@ -1,0 +1,220 @@
+{% extends "layout.html" %}
+
+{% block title %}Client Form | KBD Services{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-lg-8 offset-lg-2">
+        <div class="card shadow-sm mb-5">
+            <div class="card-body p-4">
+                <h1 class="h2 mb-4 text-center">Client Information</h1>
+                <p class="text-center mb-4">Enter client details and preferences to create a tailored presentation.</p>
+                
+                <form action="{{ url_for('client_form') }}" method="POST" class="needs-validation" novalidate>
+                    <div class="row mb-4">
+                        <div class="col-md-6 mb-3">
+                            <label for="clientName" class="form-label">Client Name</label>
+                            <input type="text" class="form-control" id="clientName" name="client_name" required>
+                            <div class="invalid-feedback">
+                                Please enter the client's name.
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <label for="companyName" class="form-label">Company Name</label>
+                            <input type="text" class="form-control" id="companyName" name="company_name" required>
+                            <div class="invalid-feedback">
+                                Please enter the company name.
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="mb-4">
+                        <label class="form-label">Product Categories (select all that apply)</label>
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-md-4 mb-2">
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="BAGS" name="product_categories" id="catBags">
+                                            <label class="form-check-label" for="catBags">
+                                                Bags
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 mb-2">
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="TECH ACCESSORIES" name="product_categories" id="catTech">
+                                            <label class="form-check-label" for="catTech">
+                                                Tech Accessories
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 mb-2">
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="MONEY CLIPS & WALLETS" name="product_categories" id="catWallets">
+                                            <label class="form-check-label" for="catWallets">
+                                                Money Clips & Wallets
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-4 mb-2">
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="ORGANIZATION" name="product_categories" id="catOrg">
+                                            <label class="form-check-label" for="catOrg">
+                                                Organization
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 mb-2">
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="PICTURE FRAMES" name="product_categories" id="catFrames">
+                                            <label class="form-check-label" for="catFrames">
+                                                Picture Frames
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 mb-2">
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="TOOLS & GADGETS" name="product_categories" id="catTools">
+                                            <label class="form-check-label" for="catTools">
+                                                Tools & Gadgets
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-4 mb-2">
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="GROOMING" name="product_categories" id="catGrooming">
+                                            <label class="form-check-label" for="catGrooming">
+                                                Grooming
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 mb-2">
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="FLASKS" name="product_categories" id="catFlasks">
+                                            <label class="form-check-label" for="catFlasks">
+                                                Flasks
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 mb-2">
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="BARWARE" name="product_categories" id="catBarware">
+                                            <label class="form-check-label" for="catBarware">
+                                                Barware
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-4 mb-2">
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="CIGAR ACCESSORIES" name="product_categories" id="catCigar">
+                                            <label class="form-check-label" for="catCigar">
+                                                Cigar Accessories
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 mb-2">
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="GAMES" name="product_categories" id="catGames">
+                                            <label class="form-check-label" for="catGames">
+                                                Games
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 mb-2">
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="PERSONALIZATION" name="product_categories" id="catPersonalization">
+                                            <label class="form-check-label" for="catPersonalization">
+                                                Personalization
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="mb-4">
+                        <label for="budgetRange" class="form-label">Budget Range</label>
+                        <select class="form-select" id="budgetRange" name="budget" required>
+                            <option value="" selected disabled>Select budget range</option>
+                            <option value="economy">Economy (Under $10 per item)</option>
+                            <option value="mid_range">Mid-range ($10-$25 per item)</option>
+                            <option value="premium">Premium ($25-$50 per item)</option>
+                            <option value="luxury">Luxury (Over $50 per item)</option>
+                        </select>
+                        <div class="invalid-feedback">
+                            Please select a budget range.
+                        </div>
+                    </div>
+                    
+                    <div class="mb-4">
+                        <label for="purpose" class="form-label">Primary Purpose</label>
+                        <select class="form-select" id="purpose" name="purpose" required>
+                            <option value="" selected disabled>Select primary purpose</option>
+                            <option value="employee_gifts">Employee Gifts</option>
+                            <option value="client_appreciation">Client Appreciation</option>
+                            <option value="event_giveaways">Event Giveaways</option>
+                            <option value="trade_show">Trade Show/Exhibition</option>
+                            <option value="brand_awareness">Brand Awareness</option>
+                            <option value="onboarding">New Employee Onboarding</option>
+                        </select>
+                        <div class="invalid-feedback">
+                            Please select a primary purpose.
+                        </div>
+                    </div>
+                    
+                    <div class="mb-4">
+                        <label for="timeline" class="form-label">Timeline</label>
+                        <select class="form-select" id="timeline" name="timeline" required>
+                            <option value="" selected disabled>Select timeline</option>
+                            <option value="urgent">Urgent (1-2 weeks)</option>
+                            <option value="standard">Standard (3-4 weeks)</option>
+                            <option value="relaxed">Relaxed (1-2 months)</option>
+                            <option value="planning_ahead">Planning Ahead (3+ months)</option>
+                        </select>
+                        <div class="invalid-feedback">
+                            Please select a timeline.
+                        </div>
+                    </div>
+                    
+                    <div class="d-grid gap-2 mt-5">
+                        <button class="btn btn-primary btn-lg" type="submit">Find Products</button>
+                        <a href="{{ url_for('index') }}" class="btn btn-outline-secondary">Cancel</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    // Form validation
+    (function() {
+        'use strict';
+        
+        // Fetch all forms we want to apply validation to
+        var forms = document.querySelectorAll('.needs-validation');
+        
+        // Loop over them and prevent submission
+        Array.prototype.slice.call(forms).forEach(function(form) {
+            form.addEventListener('submit', function(event) {
+                if (!form.checkValidity()) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                }
+                
+                form.classList.add('was-validated');
+            }, false);
+        });
+    })();
+</script>
+{% endblock %}
