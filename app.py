@@ -31,6 +31,9 @@ def load_products():
     try:
         with open(os.path.join('data', 'products.json'), 'r') as f:
             return json.load(f)
+    except FileNotFoundError:
+        print("products.json file not found")
+        return {"products": []}
     except Exception as e:
         print(f"Error loading products: {e}")
         return {"products": []}
@@ -96,16 +99,31 @@ def register_routes(app):
         filtered_products = []
         selected_categories = client_data.get('product_categories', [])
         
+        # Normalize selected categories for more flexible matching
+        normalized_selected_categories = [
+            category.lower().replace('_', ' ').replace('&', 'and') 
+            for category in selected_categories
+        ]
+        
         # Try to get products from database
         try:
-            if selected_categories:
-                # If categories are selected, filter by them
-                for category in selected_categories:
-                    category_products = Product.query.filter_by(category=category).all()
-                    filtered_products.extend(category_products)
+            all_products = Product.query.all()
+            
+            if selected_categories and all_products:
+                # If categories are selected, filter by them with flexible matching
+                for product in all_products:
+                    # Normalize product category for comparison
+                    normalized_product_category = product.category.lower().replace('_', ' ').replace('&', 'and')
+                    
+                    # Check if any selected category matches or is contained in the product category
+                    for norm_category in normalized_selected_categories:
+                        if (norm_category in normalized_product_category or 
+                            normalized_product_category in norm_category):
+                            filtered_products.append(product)
+                            break
             else:
                 # If no categories selected, show all products
-                filtered_products = Product.query.all()
+                filtered_products = all_products
                 
             # Group products by category for easier display
             products_by_category = {}
@@ -119,15 +137,23 @@ def register_routes(app):
             # Fallback to JSON if database query fails
             print(f"Database query error: {e}")
             products_data = load_products()
+            all_products = products_data['products']
             
-            # Filter products based on client preferences
+            # Filter products based on client preferences with flexible matching
             if selected_categories:
-                for product in products_data['products']:
-                    if product['category'] in selected_categories:
-                        filtered_products.append(product)
+                for product in all_products:
+                    # Normalize product category for comparison
+                    normalized_product_category = product['category'].lower().replace('_', ' ').replace('&', 'and')
+                    
+                    # Check if any selected category matches or is contained in the product category
+                    for norm_category in normalized_selected_categories:
+                        if (norm_category in normalized_product_category or 
+                            normalized_product_category in norm_category):
+                            filtered_products.append(product)
+                            break
             else:
                 # If no categories selected, show all products
-                filtered_products = products_data['products']
+                filtered_products = all_products
             
             # Group products by category for easier display
             products_by_category = {}
@@ -191,6 +217,9 @@ def register_routes(app):
             selected_product_ids = request.form.getlist('selected_products')
             print(f"Selected products IDs: {selected_product_ids}")
             
+            # Store in session as backup
+            session['selected_product_ids'] = selected_product_ids
+            
             # Convert to integers
             product_ids = []
             for id_str in selected_product_ids:
@@ -210,21 +239,25 @@ def register_routes(app):
             )
             
             # Add selected products to the presentation
+            products_added = False
             try:
                 for product_id in product_ids:
                     product = Product.query.get(product_id)
                     if product:
                         presentation.products.append(product)
+                        products_added = True
+                
+                if not products_added and product_ids:
+                    print("Warning: No products were found in the database. Presentation will have no products.")
             except Exception as e:
                 print(f"Error adding products to presentation: {e}")
-                # Store selected products in session as fallback
-                session['selected_product_ids'] = product_ids
             
             # Save presentation to database
             try:
                 db.session.add(presentation)
                 db.session.commit()
                 print(f"Created presentation with link: {presentation.unique_link}")
+                print(f"Product count in new presentation: {len(presentation.products)}")
                 
                 # Redirect to presentation view using unique link
                 return redirect(url_for('presentation_by_link', link=presentation.unique_link))
@@ -233,7 +266,6 @@ def register_routes(app):
                 db.session.rollback()
                 
                 # Fallback to using presentation_id
-                session['selected_product_ids'] = product_ids
                 return redirect(url_for('presentation', presentation_id=1))
         except Exception as e:
             print(f"Error creating presentation: {e}")
@@ -304,8 +336,44 @@ def register_routes(app):
                 'timeline': presentation.timeline
             }
             
+            # Debug information
+            print(f"Loading presentation with link: {link}")
+            print(f"Client: {client_data['company']} ({client_data['name']})")
+            
             # Get products from presentation
-            selected_products = presentation.products
+            try:
+                # Try to get products from the relationship
+                selected_products = list(presentation.products)
+                print(f"Found {len(selected_products)} products in presentation relationship")
+                
+                # If no products in the relationship, try fallback methods
+                if not selected_products:
+                    print("No products in presentation relationship, trying session fallback")
+                    # First try to get from session
+                    selected_product_ids = session.get('selected_product_ids', [])
+                    print(f"Session product IDs: {selected_product_ids}")
+                    
+                    if selected_product_ids:
+                        # Try to get products from database by IDs
+                        for product_id in selected_product_ids:
+                            product = Product.query.get(product_id)
+                            if product:
+                                selected_products.append(product)
+                    
+                    # If still no products, try JSON fallback
+                    if not selected_products:
+                        print("Still no products, using JSON fallback")
+                        products_data = load_products()
+                        selected_products = products_data.get('products', [])[:4]  # Show first 4 as sample
+            except Exception as e:
+                print(f"Error retrieving products: {e}")
+                # Final fallback - use JSON product data
+                products_data = load_products()
+                selected_products = products_data.get('products', [])[:4]  # Show first 4 as sample
+            
+            print(f"Final product count for presentation: {len(selected_products)}")
+            for i, product in enumerate(selected_products[:3]):  # Print first 3 as sample
+                print(f"Product {i+1}: {getattr(product, 'item_name', product.get('item_name', 'Unknown'))}")
             
             return render_template('presentation.html', 
                                 products=selected_products,
